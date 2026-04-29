@@ -1,6 +1,6 @@
 # Shreya Suman | Data Science Enthusiast & AI Analytics Builder
 
-🌐 **Live Portfolio:** [shreya-portfolio.vercel.app](#) *(add your deployed link here)*
+🌐 **Live Portfolio:** [dva-portfolio-two-theta.vercel.app](#) 
 
 shreya.212suman@gmail.com | [GitHub](https://github.com/AlgoWitch) | [LinkedIn](https://www.linkedin.com/in/shreya-suman-5bb656328/)
 
