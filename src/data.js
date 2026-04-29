@@ -12,26 +12,26 @@ const projects = [
   {
     name: "Valuation Ratio Analysis",
     description: "Financial modeling and valuation ratio analysis for BEL and HAL, including Earnings Per Share, Price to Earnings, and Price to Sales ratios.",
-    image: `${base}project1.png`,
+    image: `${base}valuation.png`,
     tags: ["excel", "finance", "data-analysis"],
     github: "#",
-    live: "https://rishihoodeduin-my.sharepoint.com/:x:/g/personal/ash_2024_rishihood_edu_in/IQBbGoQPq5u0SLtJhKmqlhSQAcHgr4ppBbgscZXhsJnJb5o?e=wZgwOu"
+    live: "https://rishihoodeduin-my.sharepoint.com/:x:/g/personal/shreya_suman2024_rishihood_edu_in/IQAwKk1hbUNoRrDa8KXWG4XHARLfobwL4URywfzqQT_85rU?e=XZ8lST"
   },
   {
     name: "DuPont Analysis",
     description: "3-Stage and 5-Stage DuPont Analysis dashboard detailing Return on Asset (ROA) and Return on Equity (ROE) metrics for major corporations.",
-    image: `${base}project2.png`,
+    image: `${base}dup.png`,
     tags: ["excel", "finance", "dashboard"],
     github: "#",
-    live: "https://rishihoodeduin-my.sharepoint.com/:x:/g/personal/ash_2024_rishihood_edu_in/IQAL6yxnUDqJQYb0YDBQXqfWAWRR0ethlFhi_n2mPbYjHZw?e=gOOFzF"
+    live: "https://docs.google.com/spreadsheets/d/1rXrg4fPHJ04Rn235QbPeTpmicKgpzqiM7FEksTKqKSg/edit?usp=sharing"
   },
   {
-    name: "AI at Work: Efficiency vs Stability",
-    description: "Comprehensive data dashboard analyzing the impact of AI adoption on productivity, burnout risk, and long-term workforce sustainability across different roles.",
-    image: `${base}project3.png`,
+    name: "Developer Compensation & Job Satisfaction Analysis (2025)",
+    description: "Comprehensive analysis of developer compensation and job satisfaction trends across different factors such as experience, location, and company size, utilizing data visualization techniques to uncover insights.",
+    image: `${base}project.png`,
     tags: ["dashboard", "data-viz", "analytics"],
     github: "#",
-    live: "https://docs.google.com/spreadsheets/d/1hXWgkVV1PRSaZfl86P68GkNQflubBdjYmwfvNE2n8Pk/edit?gid=1369173376#gid=1369173376"
+    live: "https://docs.google.com/spreadsheets/d/1CUE1TSDbfonV3kL1XIwCiGaxcn4hCe6zfwbaep4yrMc/edit?usp=sharing"
   }
 ]
 

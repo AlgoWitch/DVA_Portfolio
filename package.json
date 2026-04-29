@@ -1,8 +1,8 @@
 {
-  "name": "ashutosh-singh-portfolio",
+  "name": "shreya-suman-portfolio",
   "private": true,
   "version": "1.0.0",
-  "description": "Professional Data Visualization & Analytics Portfolio for Ashutosh Singh",
+  "description": "Professional Data Visualization & Analytics Portfolio for Shreya Suman",
   "type": "module",
   "scripts": {
     "dev": "vite",

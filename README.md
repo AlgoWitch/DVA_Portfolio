@@ -1,33 +1,27 @@
-# Ashutosh Singh | DVA Specialist & Full-Stack Developer
+# Shreya Suman | Data Science Enthusiast & AI Analytics Builder
 
-🌐 **Live Portfolio:** [portfolio-dva-three.vercel.app](https://portfolio-dva-three.vercel.app/)
+🌐 **Live Portfolio:** [shreya-portfolio.vercel.app](#) *(add your deployed link here)*
 
-ashutosh.singh2024@rishihood.edu.in | [GitHub](https://github.com/ashyou09) | [LinkedIn](https://www.linkedin.com/in/ashutosh-singh2024/)
+shreya.212suman@gmail.com | [GitHub](https://github.com/AlgoWitch) | [LinkedIn](https://www.linkedin.com/in/shreya-suman-5bb656328/)
 
 ---
 
 ## Summary
 
-Data Analyst expert in **Excel**, **Tableau**, and **MySQL**, turning complex datasets into clear, actionable intelligence. I leverage **Python**, **Pandas**, **NumPy**, **Seaborn**, and **Plotly** to build scalable models and dashboards to drive data-driven decision-making, specializing in **Data Visualization & Analytics (DVA)** and **Full-Stack Engineering**.
+B.Tech CSE Student and Data Science enthusiast passionate about solving real-world problems using data, AI, and technology. I build impactful projects in analytics, machine learning, and user-focused digital products. Specializing in **Data Visualization & Analytics (DVA)**, turning complex datasets into clear, actionable intelligence.
 
 ---
 
 ## Technical Skills
 
 **Data Visualization & Analytics:**
-Tableau, Excel, Spreadsheet Modeling, Pandas, Matplotlib, NumPy
+Tableau, Power BI, Excel, Google Sheets, Pandas, NumPy, Python, Data Analysis
 
-**Full-Stack Development:**
-React, Next.js, Node.js, Express JS, TypeScript, Tailwind CSS, HTML, CSS
+**Programming & Development:**
+Python, SQL, Git, GitHub, Machine Learning, Data Visualization
 
-**Backend & Infrastructure:**
-Docker, Kubernetes, Terraform, Python, SQL, Git/GitHub, Unit Testing
-
-**AI & Machine Learning:**
-Generative AI, LangChain, LangGraph
-
-**Databases:**
-MySQL, MongoDB, Prisma ORM
+**Emerging Skills:**
+AI & Machine Learning, Advanced Analytics
 
 ---
 

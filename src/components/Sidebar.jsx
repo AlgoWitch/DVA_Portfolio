@@ -2,32 +2,30 @@ const base = import.meta.env.BASE_URL
 
 export default function Sidebar() {
   const dvaSkills = [
-    "Excel", "Tableau", "Spreadsheet", "Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly", "MySQL"
+    "Tableau", "Power BI", "Excel", "Google Sheets", "Pandas", "NumPy", "Python", "Data Analysis"
   ]
 
   const techStack = [
-    "Power BI", "SQL", "Data Cleaning", "Data Modeling", "Pivot Tables",
-    "VLOOKUP", "Statistical Analysis", "Dashboard Design", "ETL",
-    "Git and GitHub", "Research", "Leadership", "Problem Solving"
+    "SQL", "Git", "GitHub", "Machine Learning", "Python", "Data Analysis", "Data Visualization", "Analytics"
   ]
 
   return (
     <aside className="sidebar">
       <img
         src={`${base}profile.png`}
-        alt="Ashutosh Singh"
+        alt="Shreya Suman"
         className="sidebar-avatar"
       />
-      <h1 className="sidebar-name">Ashutosh Singh</h1>
-      <p className="sidebar-username">ashyou09</p>
+      <h1 className="sidebar-name">Shreya Suman</h1>
+      <p className="sidebar-username">AlgoWitch</p>
       <p className="sidebar-bio">
-        Data Analyst expert in <strong>Excel</strong>, <strong>Tableau</strong>, and <strong>MySQL</strong>, turning complex datasets into clear, actionable intelligence. 
-        I leverage <strong>Python</strong>, <strong>Pandas</strong>, <strong>NumPy</strong>, <strong>Seaborn</strong>, and <strong>Plotly</strong> to build scalable models and automated dashboards.
+        B.Tech CSE Student and Data Science enthusiast passionate about solving real-world problems using <strong>data</strong>, <strong>AI</strong>, and <strong>technology</strong>.
+        I build impactful projects in <strong>analytics</strong>, <strong>machine learning</strong>, and user-focused products, specializing in <strong>Data Visualization & Analytics (DVA)</strong>.
       </p>
 
       <div className="sidebar-socials">
         <a
-          href="https://www.linkedin.com/in/ashutosh-singh2024/"
+          href="https://www.linkedin.com/in/shreya-suman-5bb656328/"
           target="_blank"
           rel="noreferrer"
           className="sidebar-social-btn"
@@ -35,7 +33,7 @@ export default function Sidebar() {
           LinkedIn
         </a>
         <a
-          href="https://github.com/ashyou09"
+          href="https://github.com/AlgoWitch"
           target="_blank"
           rel="noreferrer"
           className="sidebar-social-btn"
@@ -64,19 +62,19 @@ export default function Sidebar() {
           <svg viewBox="0 0 16 16" width="16" height="16" fill="#8b949e">
             <path d="M11.536 3.464a5 5 0 010 7.072L8 14.07l-3.536-3.535a5 5 0 117.072-7.072v.001zm1.06 8.132a6.5 6.5 0 10-9.192 0l3.535 3.536a1.5 1.5 0 002.122 0l3.535-3.536zM8 9a2 2 0 100-4 2 2 0 000 4z" />
           </svg>
-          <span>India</span>
+          <span>Sonipat, Haryana, India</span>
         </div>
         <div className="sidebar-info-item">
           <svg viewBox="0 0 16 16" width="16" height="16" fill="#8b949e">
             <path d="M1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0114.25 14H1.75A1.75 1.75 0 010 12.25v-8.5C0 2.784.784 2 1.75 2zM1.5 12.251c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V5.809L8.38 9.397a.75.75 0 01-.76 0L1.5 5.809v6.442zm13-8.181v-.32a.25.25 0 00-.25-.25H1.75a.25.25 0 00-.25.25v.32L8 7.88z" />
           </svg>
-          <a href="mailto:ashutosh.singh2024@rishihood.edu.in">ashutosh.singh2024@rishihood.edu.in</a>
+          <a href="mailto:shreya.212suman@gmail.com">shreya.212suman@gmail.com</a>
         </div>
         <div className="sidebar-info-item">
           <svg viewBox="0 0 16 16" width="16" height="16" fill="#8b949e">
             <path d="M11 0H5a2 2 0 00-2 2v12a2 2 0 002 2h6a2 2 0 002-2V2a2 2 0 00-2-2zM5 2h6v11H5V2zm3 13a1 1 0 110-2 1 1 0 010 2z" />
           </svg>
-          <a href="#">Not Provided</a>
+          <a href="#">Resume (Add Link)</a>
         </div>
       </div>
 
